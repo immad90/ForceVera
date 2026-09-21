@@ -33,7 +33,7 @@ if(industryStrip&&whySection){
           <div class="howto-video-top"><span class="live-dot"></span> ForceVera Product Overview <span>Security workforce. Simplified.</span></div>
           <div class="howto-video-frame">
             <video id="forceveraOverview" controls playsinline preload="metadata" aria-label="ForceVera product walkthrough">
-              <source src="assets/video/ForceVera_Product_Overview.mp4" type="video/mp4">
+              <source src="assets/ForceVera_Product_Overview.mp4?v=2" type="video/mp4">
               Your browser does not support HTML5 video.
             </video>
             <div class="howto-video-fallback" id="forceveraVideoFallback"><div><strong>ForceVera walkthrough</strong><span>The product video is being prepared for playback.</span></div></div>
